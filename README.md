@@ -14,26 +14,33 @@ at any point for this project to keep scoped in on the technique and not scale.
 ## Example Usage
 
 Input (spaces are allowed):
-`> 8*2+(8/4)`
+
+`8*2+(8/4)`
+
 Output:
-`To postfix:
+
+```
+To postfix:
 8 2 * 8 4 / +
 To infix:
 8 * 2 + 8 / 4
 To prefix:
 + * 8 2 / 8 4
-Answer: 18`
+Answer: 18
+```
 
 Input:
 `8*(9+2)`
 Output:
-`To postfix:
+```
+To postfix:
 8 9 2 + *
 To infix:
 8 * 9 + 2
 To prefix:
 * 8 + 9 2
-Answer: 88`
+Answer: 88
+```
 
 ## Links / References
 
