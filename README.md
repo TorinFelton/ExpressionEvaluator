@@ -1,4 +1,4 @@
-# ExpressionEvaluator
+# Expression Evaluator
 Simple mathematical expression calculations using abstract syntax trees and reverse polish notation.
 
 ## Overview
