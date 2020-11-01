@@ -3,7 +3,7 @@ Simple mathematical expression calculations using abstract syntax trees and reve
 
 ## Overview
 
-This is forming part of my Computer Science A-Level project and I've created this more as a learning process. This project covers graph traversal (specifically of abstract syntax trees),
+This is forming part of my Computer Science A-Level project and I've created this as a learning process. This project covers graph traversal (specifically of abstract syntax trees),
 reverse polish notation and a bit of OOP technique (mostly just inheritance).
 
 ## Limitations / Goals
