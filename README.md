@@ -30,7 +30,9 @@ Answer: 18
 ```
 
 Input:
+
 `8*(9+2)`
+
 Output:
 ```
 To postfix:
