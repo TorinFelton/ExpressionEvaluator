@@ -9,6 +9,7 @@ reverse polish notation and a bit of OOP technique (mostly just inheritance).
 ## Limitations / Goals
 
 - ~~Tokeniser still needs to be implemented as currently the program only reads char by char, meaning it can only take single digit numbers.~~ (added)
+- This is likely not going to be updated much further as it is fully functional. It will be implemented in my project at a later date.
 - I also do not intend to implement floats at any point for this project to keep scoped in on the technique and not scale.
 
 ## Example Usage
