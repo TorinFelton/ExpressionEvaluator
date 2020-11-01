@@ -30,7 +30,7 @@ namespace Sandbox
             Console.WriteLine();
 
             // Now using reverse polish notation, calculate what the result is. This takes in a postfix-ordered list of TreeNodes.
-            Console.WriteLine(RPN.Evaluate(Traversal.postOrder(bin1)));
+            Console.WriteLine("Answer: " + RPN.Evaluate(Traversal.postOrder(bin1)));
         }
     }
 }
