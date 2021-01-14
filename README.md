@@ -1,5 +1,6 @@
 # Expression Evaluator
 Simple mathematical expression calculations using abstract syntax trees and reverse polish notation.
+This does not support unary operators or floating points, it is also not the *most efficient* algorithm - I'm using it for learning purposes.
 
 ## Overview
 
